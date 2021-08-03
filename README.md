@@ -1,10 +1,8 @@
-# PancakeSwap Profile API
+# ChimpySwap Profile API
 
-Serverless API implementation for PancakeSwap Profile contract
 
 # Dependencies
 
-- [Vercel CLI](https://vercel.com/download)
     - Required to emulate local environment (serverless).
 
 # Documentation
